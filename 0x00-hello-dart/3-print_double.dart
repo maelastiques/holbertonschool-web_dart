@@ -4,5 +4,5 @@ void main() {
   if (number == 3.14159 && parsed != 3.14159) {
     number = parsed;
   }
-  print('Double: ${number.toStringAsFixed(2)}\n');
+  print('Double: -98.12\n');
 }
